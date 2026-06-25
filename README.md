@@ -8,4 +8,4 @@ Tecnologias Utilizadas
 • CSS3: estilização visual e responsividade.
 • JavaScript: implementação de recursos interativos.
 • Visual Studio Code: ambiente de desenvolvimento.
-• GitHub Pages (opcional): hospedagem gratuita.
+
